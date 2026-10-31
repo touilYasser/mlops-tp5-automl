@@ -1,0 +1,6 @@
+flaml[automl]
+mlflow
+scikit-learn
+pandas
+joblib
+requests
